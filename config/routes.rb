@@ -1,5 +1,6 @@
 Rails.application.routes.draw do
   resources :topics
+  resources :royals
   resources :books
   resources :books
   resources :users
